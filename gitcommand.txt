@@ -1,0 +1,55 @@
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\divesh.bari\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\ter... 
+   2 & C:/Users/divesh.bari/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/divesh.bari/Pictures/Project/g... 
+   3 ls -l
+   4 ls
+   5 python .\SoftwareTesing.py
+   6 ls -l
+   7 ls
+   8 ll
+   9 ls
+  10 ls -l
+  11 wsl
+  12 ls
+  13 ls -l
+  14 wsl --shutdown
+  15 ls -l
+  16 ll
+  17 ls
+  18 ls
+  19 wsl
+  20 wsl
+  21 git init
+  22 dir
+  23 ls -a
+  24 dir
+  25 git init
+  26 dir
+  27 git init
+  28 ls -a
+  29 ls
+  30 git init
+  31 ls
+  32 git status
+  33 ls
+  34 git add .\SoftwareTesing.py
+  35 git status
+  36 git rm --cached .\SoftwareTesing.py
+  37 git status
+  38 git add .
+  39 git status
+  40 git restore SoftwareTesing.py...
+  41 git status
+  42 git commit -m .\SoftwareTesing.py
+  43 git status
+  44 ls
+  45 git status
+  46 git commit -m .\SoftwareTesing.py
+  47 git restore SoftwareTesing.py
+  48 git status
+  49 git rm --cached .\SoftwareTesing.py
+  50 git status
+  51 git add .\SoftwareTesing.py
+  52 git status
+  53 ls
