@@ -53,3 +53,43 @@ Id CommandLine
   51 git add .\SoftwareTesing.py
   52 git status
   53 ls
+  54 history
+  55 git status
+  56 git add .\gitcommand.txt
+  57 git status
+  58 git command -m "gitcoomand.txt added"
+  59 git --help
+  60 git commit -m "gitcoomand.txt added"
+  61 git confif --global user.name "divesh bari"
+  62 git config --global user.name "divesh bari"
+  63 git config --global user.email "diveshbari1999@gmail.com"
+  64 git command -m "gitcoomand.txt added"
+  65 git commit -m "gitcoomand.txt added"
+  66 git restore
+  67 git restore .\gitcommand.txt
+  68 git status
+  69 git rm --cached .\gitcommand.txt
+  70 git status
+  71 git commit -m "gitcoomand.txt added"
+  72 git status
+  73 git add .\gitcommand.txt
+  74 git status
+  75 git commit -m "gitcoomand.txt added"
+  76 git status
+  77 git remote add origin https://github.com/diveshcobol/githubfordevops.git
+  78 git remote -v
+  79 git branch -M main
+  80 git push -u origin main
+  81 git branch -M master
+  82 git push -u origin master
+  83 history
+  84 git clone https://github.com/diveshcobol/githubfordevops.git
+  85 ls -l
+  86 ls
+  87 cd .\githubfordevops\
+  88 s
+  89 ls
+  90 cat .\gitcommand.txt
+  91 cd ..
+  92 ls
+  93 history
